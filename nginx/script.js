@@ -1,5 +1,6 @@
 var evia_attendees = [
   "Igor Ilic",
+  "Your Name",
   "Denislav Kolaksazov",
 ];
 var ul = document.createElement('ul');
