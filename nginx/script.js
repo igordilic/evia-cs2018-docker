@@ -2,6 +2,7 @@ var evia_attendees = [
   "Igor Ilic",
   "Claire Landaret",
   "Your name",
+  "Fabian Bedarf",
 ];
 var ul = document.createElement('ul');
 document.getElementById('app').appendChild(ul);
